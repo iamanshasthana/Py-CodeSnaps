@@ -1,3 +1,8 @@
+"""
+Author: Ansh Asthana
+Purpose: This script handles user authentication and database connection logic.
+"""
+
 👋 Welcome to My CodeSnaps Git Page!!
 Hey there! I'm your friendly neighbourhood coder who loves to share daily (or almost daily!) insights and snippets from the wonderful world of programming on X.
 
